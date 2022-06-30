@@ -22,4 +22,4 @@ $ node index.js
 
 #### Then on your phone, go to linked devices in the settings (ios) or web whatsapp on android navbar, and scan the QR code.
 
-## Enjoy your powerfull whatsapp bot.
+## Enjoy your powerfull bot.

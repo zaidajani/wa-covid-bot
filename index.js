@@ -14,5 +14,3 @@ function start(client) {
     });
   });
 }
-
-// super simple example for whatsapp module
